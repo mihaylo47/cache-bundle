@@ -1,7 +1,6 @@
 {
     "name": "justcommunication/cache-bundle",
     "description": "Cache bundle",
-    "version": "0.1.0",
     "type": "symfony-bundle",
     "keywords": ["cache","memcache"],
     "license": "proprietary",
