@@ -8,8 +8,15 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1"
+        "php": ">=8.1",
+        "justcommunication/func-bundle": "^0.1"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:mihaylo47/func-bundle.git"
+        }
+    ],
     "config": {
         "sort-packages": true
     },
