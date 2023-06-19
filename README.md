@@ -35,3 +35,5 @@ parameters:
         namespace: 'tb'
         lifetime: 86400
 ```
+
+// Новая версия 0.2.0
