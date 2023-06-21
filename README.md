@@ -1,5 +1,5 @@
 # CacheBundle
-Простой хелпер для подключения/использования кеша.
+Простой хелпер для подключения/использования кеша, оформленный как Symfony bundle.
 ```
 autowire: CacheHelper $cacheHelper
 $this->cacheHelper->getCache() // вернет стандартный Symfony\Component\Cache\Adapter\MemcachedAdapter
